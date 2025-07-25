@@ -1,7 +1,7 @@
 # Flipkart-Dashboard-Analysis
 Flipkart Sales &amp; Profitability Dashboard | Power BI Project Showcase
 
-**Use Case:- **
+****KEY POINTS****
 
 **Sales Performance Tracking:**
 -Flipkart needs to track how sales are performing over time across various product categories and regions.
@@ -19,3 +19,5 @@ Flipkart Sales &amp; Profitability Dashboard | Power BI Project Showcase
 
 **Expected Outcome:** The sales dashboard should provide comprehensive, visually appealing, and interactive insights into the key metrics that drive Flipkart’s sales performance. This data will help the team make informed decisions about inventory management, marketing strategies, pricing, and customer service improvements.
 
+
+Tools Used :- Power BI , Excel/DAX
